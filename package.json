@@ -1,0 +1,14 @@
+{
+  "name": "alurageek-challenge-main---copia",
+  "version": "1.0.0",
+  "description": "Este é um projeto criado para atender ao terceiro desafio desafio proposto pela Turma 5 da ONE em parceria com a Alura. O objetivo era criar um site comercial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
